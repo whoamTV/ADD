@@ -1,0 +1,12 @@
+{
+  "appName": "ADD Start",
+  "appDesc": "This is the algorithm of ADD",
+  "datasetPath": "/example/extra-dataset",
+  "baseTempPath": "/example/Raw_Data_2/",
+  "centerDatabasePath": "/example/Raw_Data_2/",
+  "system": {
+    "limited_read_img_size": 900,
+    "use_file_memory_cache": true,
+    "save_fig_model": "save_img_file"
+  }
+}
